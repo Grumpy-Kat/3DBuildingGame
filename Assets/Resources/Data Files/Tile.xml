@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tiles>
+	<Tile type="Empty"></Tile>
+	<Tile type="Grid"></Tile>
+	<Tile type="Wood"></Tile>
+	<Tile type="Tile"></Tile>
+</Tiles>

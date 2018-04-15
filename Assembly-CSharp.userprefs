@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\The 100 Fan Project\Assets\CharacterCreation\Scripts\CharacterCreationManager.cs">
+    <Files>
+      <File FileName="..\The 100 Fan Project\Assets\UI\Scripts\ButtonGroup.cs" Line="9" Column="2" />
+      <File FileName="..\The 100 Fan Project\Assets\ColorPicker\Scripts\ColorPicker.cs" Line="17" Column="17" />
+      <File FileName="..\The 100 Fan Project\Assets\CharacterCreation\Scripts\CharacterCreationManager.cs" Line="16" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

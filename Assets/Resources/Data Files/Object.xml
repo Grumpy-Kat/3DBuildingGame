@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Objects>
+	<Walls>
+		<Wall type="PlainWall" defaultY="1.37" connectsToNeighbors="true"></Wall>
+		<Wall type="BrickWall" defaultY="1.37" connectsToNeighbors="true"></Wall>
+		<Wall type="TileWall" defaultY="1.37" connectsToNeighbors="true"></Wall>
+	</Walls>
+	<Tables>
+		<Table type="CheapTable" defaultY="0.6"></Table>
+		<Table type="OrnateTable" defaultY="0.6"></Table>
+		<Table type="SimpleTable" defaultY="0.25"></Table>
+	</Tables>
+	<Chairs>
+		<Chair type="CheapChair" defaultY="0.4815"></Chair>
+		<Chair type="BarChair" defaultY="0.35"></Chair>
+		<Chair type="DeskChair" defaultY="0.11"></Chair>
+	</Chairs>
+</Objects>
